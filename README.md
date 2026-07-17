@@ -9,8 +9,8 @@
 - 🧠 Proficient in **Data Structures & Algorithms, System Design (LLD/HLD), and Agentic AI Architecture**
 - 🛠️ Deeply focused on **Java/Spring Boot, Python (FastAPI), Distributed Systems, and AWS Cloud Architecture**
 - 🏆 **Competitive Programming Highlights:** 
-  - **Global Rank 4** in LeetCode Biweekly Contest 162 (out of 2,500+ participants)
-  - **Expert on Codeforces** (Max Rating: 1724)
+  - **Among 0.25%** in LeetCode Biweekly Contest 162 (out of 2,500+ participants)
+  - **Specialist on Codeforces** (Max Rating: 1514)
 - 💬 Ask me about **Microservices, RAG Frameworks, DynamoDB migrations, and LangGraph Orchestration**
 - 📫 How to reach me: **shraddhadwivedi485@gmail.com**
 - ⚡ Fun fact: **Embrace comedic nature while building production-grade distributed architectures**
